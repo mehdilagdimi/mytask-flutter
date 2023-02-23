@@ -1,2 +1,6 @@
-# MyTask
-As part of the organization of daily tasks, the company Smarty invited me to develop a mobile application in Flutter which will allow: To organize your tasks by day and week Make personalized reminders (10min or 30 min before the event) via a notification on your smartphone and by email Rank the tasks in order of importance (Normal, Medium, High)
+# MyTask Flutter App
+Dans le cadre de l'organisation des tâches quotidiennes la société Smarty vous a invité à développer une application mobile en Flutter qui va permettre : D’organiser vos tâches par jours et semaine Faire des rappels personnalisés (10min ou 30 min avant l'évènement) via une notification sur votre smartphone et par email Classer les tâches par ordre d'importance ( Normal, Moyen, Elevé)
+
+Travail Demandé :
+
+Réaliser une application Mobile (Minimum FrontEnd) Les tâches sont déjà enregistrées dans le système dans un fichier local
